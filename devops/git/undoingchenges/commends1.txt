@@ -1,0 +1,8 @@
+git checkout filename
+git filename
+git rm --cached filename
+git remote rm origin 
+git checkout .
+git cherry-pick commit id
+git revert filename
+
